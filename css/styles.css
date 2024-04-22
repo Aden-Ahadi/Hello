@@ -211,7 +211,7 @@ a {
   color: #fff;
 }
 
-.btn--secondary {
+.btn--secondary:hover {
   background: #00c8eb;
 }
 
